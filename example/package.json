@@ -7,9 +7,9 @@
     "serve": "serve ./styleguide"
   },
   "dependencies": {
-    "react": "^0.14.0",
-    "react-bootstrap": "0.28.3",
-    "react-dom": "^0.14.0"
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.5",
+    "react-dom": "^15.3.2"
   },
   "devDependencies": {
     "rsg-alt": "*",
